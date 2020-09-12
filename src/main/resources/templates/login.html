@@ -1,0 +1,13 @@
+	<html>
+	<body>
+	<div th:if="${param.logout}">You have been logged out</div>
+	<div th:if="${param.error}">There was an error, please try again</div>
+	 
+
+		
+	<form action="/signin/facebook" method="POST">
+	    <input type="hidden" name="scope" value="public_profile" />
+	    <input type="submit" value="Login using Facebook"/>
+	</form>
+	</body>
+	</html>
