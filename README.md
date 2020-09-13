@@ -11,15 +11,15 @@ Scroll down for screen shots
 
 ## Project Features :
 
-**1- Add Banners** 
+**Add Banners** 
 
-**2- Add categories and icons **
+**Add categories and icons **
 
-**3- Add products with images , desc , price **
+**Add products with images , desc , price **
 
-**4- Add Products to cart **
+**Add Products to cart **
 
-**5-check out**
+**check out**
 
 ## APIs :
 
@@ -69,10 +69,10 @@ Scroll down for screen shots
 
 ## Further Updates 
 
-# fix bugs in cart 
-# add jwt 
-# add API's for delete and update and secure it 
-# create API for order 
-# create user profile 
+### fix bugs in cart 
+### add jwt 
+### add API's for delete and update and secure it 
+### create API for order 
+### create user profile 
 
 
