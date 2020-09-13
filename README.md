@@ -1,25 +1,13 @@
-# spring-boot-upload-download-file-rest-api-example
+# Simple store project 
 
 Run this project by this command : `mvn clean spring-boot:run`
 
-### Screenshot
+Scroll down for screen shots 
 
-Upload Single File
+## Project Features :
+**1- Add Banners**
+**1- Add Banners**
+**1- Add Banners**
+**1- Add Banners**
+**1- Add Banners**
 
-![Upload Single File](img/upload1.png "Upload Single File")
-
-Upload Multiple Files
-
-![Upload Multiple Files](img/upload2.png "Upload Multiple Files")
-
-Download File
-
-![Download File](img/download.png "Download File")
-
-Upload Home Page
-
-![Upload Home Page](img/home.png "Upload Home Page")
-
-Upload File Page
-
-![Upload File Page](img/upload.png "Upload File Page")
