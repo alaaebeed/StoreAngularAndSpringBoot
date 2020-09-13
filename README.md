@@ -13,11 +13,11 @@ Scroll down for screen shots
 
 **Add Banners** 
 
-**Add categories and icons **
+**Add categories and icons**
 
-**Add products with images , desc , price **
+**Add products with images , desc , price**
 
-**Add Products to cart **
+**Add Products to cart**
 
 **check out**
 
